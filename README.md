@@ -1,4 +1,4 @@
-# Go-serverless-project
+# go-serverless-project
 
 ## Technologies used
 Go, version - 1.19  
