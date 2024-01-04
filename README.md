@@ -1,4 +1,5 @@
-# go-serverless-project
+## Project Introduction  
+Created a CRUD project using Go along with AWS, to create data, read data, update existing data and delete data from AWS DynamoDB. Also used AWS session, AWS Lambda and AWS Lambda Events to create REST APIs.
 
 ## Technologies used
 Go, version - 1.19  
@@ -10,11 +11,7 @@ AWS DynamoDB
 AWS DynamoDB Dynamodbiface  
 AWS API Gateway
 
-
-## Project Introduction  
-Created a CRUD project using Go along with AWS, to create data, read data, update existing data and delete data from AWS DynamoDB. Also used AWS session, AWS Lambda and AWS Lambda Events to create REST APIs.
-
-## Build project
+## Build and Run
 
 Install [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).  
 
